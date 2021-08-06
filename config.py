@@ -1,0 +1,11 @@
+#colors
+BLACK = (0,0,0)
+WHITE = (255,255,255)
+
+SCALE = 64
+playerSCALE = 80
+pokemonSCALE = 160
+SPEED =50
+
+SCREEN_WIDTH = 1024
+SCREEN_HEIGHT = 768
